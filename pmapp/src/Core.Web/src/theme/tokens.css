@@ -1,0 +1,24 @@
+:root {
+  /* Brand & Accent */
+  --pm-primary: 243 75% 59%;
+  --pm-primary-foreground: 0 0% 100%;
+
+  /* App Shell & Sidebar */
+  --pm-sidebar-bg: 222 47% 11%;
+  --pm-sidebar-fg: 214 32% 91%;
+  --pm-sidebar-active: 243 75% 59%;
+
+  /* Content Surfaces */
+  --pm-bg-canvas: 220 33% 97%;
+  --pm-bg-surface: 0 0% 100%;
+  --pm-border: 220 13% 91%;
+
+  /* Semantic Status Colors */
+  --pm-success: 142 72% 29%;
+  --pm-warning: 32 95% 44%;
+  --pm-danger: 0 84% 60%;
+
+  /* Geometry */
+  --pm-radius-card: 0.75rem;
+  --pm-radius-control: 0.5rem;
+}

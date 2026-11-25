@@ -1,0 +1,12 @@
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\SamplePlugin\bin\Debug\net8.0\SamplePlugin.deps.json
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\SamplePlugin\bin\Debug\net8.0\SamplePlugin.dll
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\SamplePlugin\bin\Debug\net8.0\SamplePlugin.pdb
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\SamplePlugin\obj\Debug\net8.0\SamplePlugin.csproj.AssemblyReference.cache
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\SamplePlugin\obj\Debug\net8.0\SamplePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\SamplePlugin\obj\Debug\net8.0\SamplePlugin.AssemblyInfoInputs.cache
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\SamplePlugin\obj\Debug\net8.0\SamplePlugin.AssemblyInfo.cs
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\SamplePlugin\obj\Debug\net8.0\SamplePlugin.csproj.CoreCompileInputs.cache
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\SamplePlugin\obj\Debug\net8.0\SamplePlugin.dll
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\SamplePlugin\obj\Debug\net8.0\refint\SamplePlugin.dll
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\SamplePlugin\obj\Debug\net8.0\SamplePlugin.pdb
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\SamplePlugin\obj\Debug\net8.0\ref\SamplePlugin.dll

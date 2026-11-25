@@ -1,0 +1,11 @@
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\Abstractions\obj\Debug\net8.0\Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\Abstractions\obj\Debug\net8.0\Abstractions.AssemblyInfoInputs.cache
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\Abstractions\obj\Debug\net8.0\Abstractions.AssemblyInfo.cs
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\Abstractions\obj\Debug\net8.0\Abstractions.csproj.CoreCompileInputs.cache
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\Abstractions\bin\Debug\net8.0\Abstractions.deps.json
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\Abstractions\bin\Debug\net8.0\Abstractions.dll
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\Abstractions\bin\Debug\net8.0\Abstractions.pdb
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\Abstractions\obj\Debug\net8.0\Abstractions.dll
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\Abstractions\obj\Debug\net8.0\refint\Abstractions.dll
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\Abstractions\obj\Debug\net8.0\Abstractions.pdb
+C:\TEMP\VSCODE\PM App\_spikes\BackendSpike\Abstractions\obj\Debug\net8.0\ref\Abstractions.dll
